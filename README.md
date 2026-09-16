@@ -97,7 +97,11 @@ Keeping the images inside the project folder allows the website to continue disp
 
 11. References
 
-The CSS and responsive design concepts were researched using recognised web development resources including MDN Web Docs and the World Wide Web Consortium (W3C).
+> MDN Web Docs. (2025). Web standards and web development. MDN Web Standards 
+> Domains.co.za. (2026). How to register a domain name. Domains.co.za – Domain Registration 
+> World Wide Web Consortium (W3C). (2024). Web Content Accessibility Guidelines
+> Pinterest (2026) images
+
 
 12. Author
 
